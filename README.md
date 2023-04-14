@@ -8,4 +8,4 @@
 
 4. [estudio de palabras clave](https://github.com/lorecarreno/Curso_de_Creacion_y_Optimizacion_de_Sitios_Web_con_WordPress/blob/main/4.%20como-hacer-estudio-palabras-clave.md)
 
-5. [ejercicio](https://github.com/lorecarreno/Curso_de_Creacion_y_Optimizacion_de_Sitios_Web_con_WordPress/blob/main/5.reto-estudio-de-palabras-clavemd)
+5. [ejercicio](https://github.com/lorecarreno/Curso_de_Creacion_y_Optimizacion_de_Sitios_Web_con_WordPress/blob/main/5.reto-estudio-de-palabras-clave.md)
