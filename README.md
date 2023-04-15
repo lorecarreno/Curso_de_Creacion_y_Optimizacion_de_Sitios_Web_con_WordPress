@@ -4,7 +4,7 @@
 
 2. [Introducción](https://github.com/lorecarreno/Curso_de_Creacion_y_Optimizacion_de_Sitios_Web_con_WordPress/blob/main/2.%20Introduccion.md)
 
-## WordPress y SEO: primero pasos
+#### WordPress y SEO: primero pasos
 
 3. [Conceptos fundamentales](https://github.com/lorecarreno/Curso_de_Creacion_y_Optimizacion_de_Sitios_Web_con_WordPress/blob/main/3.%20conceptos-fundamentales.md)
 
@@ -20,7 +20,7 @@
 
 9. [#]()
 
-## Instalación y configuración
+#### Instalación y configuración
 
 10. [#]()
 
