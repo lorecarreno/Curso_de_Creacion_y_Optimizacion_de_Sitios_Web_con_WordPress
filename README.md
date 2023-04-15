@@ -10,19 +10,19 @@
 
 4. [Estudio de palabras clave](https://github.com/lorecarreno/Curso_de_Creacion_y_Optimizacion_de_Sitios_Web_con_WordPress/blob/main/4.%20como-hacer-estudio-palabras-clave.md)
 
-5. [Ejercicio](https://github.com/lorecarreno/Curso_de_Creacion_y_Optimizacion_de_Sitios_Web_con_WordPress/blob/main/5.reto-estudio-de-palabras-clave.md)
+5. [Ejercicio](https://github.com/lorecarreno/Curso_de_Creacion_y_Optimizacion_de_Sitios_Web_con_WordPress/blob/main/5.%20reto-estudio-de-palabras-clave.md)
 
 6. [Cómo comprar un dominio a bajo costo](https://github.com/lorecarreno/Curso_de_Creacion_y_Optimizacion_de_Sitios_Web_con_WordPress/blob/main/6.%20como-comprar-un-dominio-a-bajo-costo.md)
 
 7. [Contratar un hosting](https://github.com/lorecarreno/Curso_de_Creacion_y_Optimizacion_de_Sitios_Web_con_WordPress/blob/main/7.%20contratar-un-hosting.md)
 
-8. [Enlazar dominio y hosting](https://github.com/lorecarreno/Curso_de_Creacion_y_Optimizacion_de_Sitios_Web_con_WordPress/blob/main/8.enlazar-dominio-y-hosting.md)
+8. [Enlazar dominio y hosting](https://github.com/lorecarreno/Curso_de_Creacion_y_Optimizacion_de_Sitios_Web_con_WordPress/blob/main/8.%20enlazar-dominio-y-hosting.md)
 
-9. [Instalación del certificado SSL](https://github.com/lorecarreno/Curso_de_Creacion_y_Optimizacion_de_Sitios_Web_con_WordPress/blob/main/9.instalacion-del-certificado-ssl.md)
+9. [Instalación del certificado SSL](https://github.com/lorecarreno/Curso_de_Creacion_y_Optimizacion_de_Sitios_Web_con_WordPress/blob/main/9.%20instalacion-del-certificado-ssl.md)
 
 #### Instalación y configuración
 
-10. [Instalar WordPress con cPanel](https://github.com/lorecarreno/Curso_de_Creacion_y_Optimizacion_de_Sitios_Web_con_WordPress/blob/main/10.instalar-wordpress-con-cpanel.md)
+10. [Instalar WordPress con cPanel](https://github.com/lorecarreno/Curso_de_Creacion_y_Optimizacion_de_Sitios_Web_con_WordPress/blob/main/10.%20instalar-wordpress-con-cpanel.md)
 
 11. [#]()
 
