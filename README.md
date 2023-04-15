@@ -40,8 +40,28 @@
 
 18. [#]()
 
+#### SEO y contenidos optimizados
+
 19. [#]()
 
 20. [#]()
 
 21. [#]()
+
+#### Entregando la web a buscadores
+
+22. [#]()
+
+23. [#]()
+
+#### Seguridad y respaldos
+
+24. [#]()
+
+25. [#]()
+
+26. [#]()
+
+27. [#]()
+
+
