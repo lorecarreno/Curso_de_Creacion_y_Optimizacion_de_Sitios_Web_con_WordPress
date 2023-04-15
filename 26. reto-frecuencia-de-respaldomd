@@ -1,0 +1,15 @@
+# Reto: Frecuencia de respaldo 
+
+26/27
+
+Crear un cuadro comparativo con las frecuencias de respaldo segun cada caso que hemos estudiado.
+
+
+---------------------------
+La copia de seguridad puede tener varias tareas excluyendo lo que no debe respaldar, esto con el fin de ahorrar espacio y gestionar mejor nuestros archivos.
+
+Ejemplo en una tienda donde el inventario cambia cada semana, pero el historial de compras cambia diario se puede ajustar esa copia de seguridad con **dos tareas**:  
+1.- Semanalmente respaldando la instalación de\*\* WordPress, plugin y demás \*\*  
+2.-Diariamente respaldando **solo información de compras** a una hora adecuada para no afectar al usuario.  
+
+![Captura0.PNG](https://static.platzi.com/media/user_upload/Captura0-581e38d1-c253-411b-994f-d83b70dd7d9f.jpg)
