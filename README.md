@@ -16,13 +16,13 @@
 
 7. [Contratar un hosting](https://github.com/lorecarreno/Curso_de_Creacion_y_Optimizacion_de_Sitios_Web_con_WordPress/blob/main/7.%20contratar-un-hosting.md)
 
-8. [#]()
+8. [Enlazar dominio y hosting](https://github.com/lorecarreno/Curso_de_Creacion_y_Optimizacion_de_Sitios_Web_con_WordPress/blob/main/8.enlazar-dominio-y-hosting.md)
 
-9. [#]()
+9. [Instalación del certificado SSL](https://github.com/lorecarreno/Curso_de_Creacion_y_Optimizacion_de_Sitios_Web_con_WordPress/blob/main/9.instalacion-del-certificado-ssl.md)
 
 #### Instalación y configuración
 
-10. [#]()
+10. [Instalar WordPress con cPanel](https://github.com/lorecarreno/Curso_de_Creacion_y_Optimizacion_de_Sitios_Web_con_WordPress/blob/main/10.instalar-wordpress-con-cpanel.md)
 
 11. [#]()
 
